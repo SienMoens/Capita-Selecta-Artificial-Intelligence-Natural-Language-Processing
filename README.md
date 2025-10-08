@@ -1,4 +1,4 @@
-# Capita Selecta Artificial Intelligence - Natural Language Processing
+# Capita Selecta Computer Science: Artificial Intelligence - Natural Language Processing
 
 This repository contains lectures and exercise sessions material corresponding to KU Leuven course [B-KUL-H05N0A](https://onderwijsaanbod.kuleuven.be/syllabi/e/H05N0AE.htm#activetab=doelstellingen_idm9925824).
 
